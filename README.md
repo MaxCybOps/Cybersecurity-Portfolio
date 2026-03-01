@@ -166,7 +166,7 @@ White-box vulnerability assessment of bWAPP (Buggy Web Application) hosted on Do
 
 ---
 
-## 03. Botium Toys Risk Assessment
+## 03. Risk Assessment
 
 **Framework:** NIST Cybersecurity Framework (CSF) | **Risk Score:** 8/10 (High)
 
