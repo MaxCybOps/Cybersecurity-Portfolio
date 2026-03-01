@@ -166,7 +166,7 @@ White-box vulnerability assessment of bWAPP (Buggy Web Application) hosted on Do
 
 ---
 
-## 03. Risk Assessment
+## 03. Botium Toys Risk Assessment
 
 **Framework:** NIST Cybersecurity Framework (CSF) | **Risk Score:** 8/10 (High)
 
@@ -695,20 +695,38 @@ Real engagements were conducted under signed Non-Disclosure Agreements. All find
 
 ---
 
-## 📜 Certifications & Training
 
-| Certification | Issuer | Year |
-|--------------|--------|------|
-| Advanced Cyber Warfare (ACW) | ICDFA | 2025 |
-| Google Cybersecurity Professional Certificate | Google / Coursera | 2024 |
-| ISO 27001:2022 — Information Security Management | ISO | 2024 |
-| ISO 31000 — Risk Management | ISO | 2024 |
-| Oracle AI Foundations | Oracle | 2024 |
-| CCNA Cyber Ops | Cisco | 2024 |
-| TechCrush SOC Analyst Bootcamp | TechCrush | 2024 |
-| EvolveHQ Ethical Hacking & VAPT | EvolveHQ | 2024 |
-| Digitanotion VAPT Internship | Digitanotion Ltd | 2024 |
-| CompTIA Security+ | CompTIA | In Progress |
+## 📜 Certifications
+
+> All certificates are available in the [`/certifications`](./certifications/) folder of this repository.
+
+| # | Certification | Issuer | Date | File |
+|---|--------------|--------|------|------|
+| 01 | Oracle Cloud Infrastructure AI Foundations Associate | Oracle | Oct 2025 | [View](./certifications/01-oracle-oci-ai-foundations-2025.pdf) |
+| 02 | Cybersecurity Career Starter Certification (CCSC) | Hack & Fix Academy | Dec 2025 | [View](./certifications/02-hack-and-fix-ccsc-2025.pdf) |
+| 03 | 15-Week Cybersecurity Bootcamp | TechCrush | Jan 2025 | [View](./certifications/03-techcrush-cybersecurity-bootcamp-2025.pdf) |
+| 04 | Introduction to Penetration Testing | StationX | Sep 2025 | [View](./certifications/04-intro-penetration-testing-2025.pdf) |
+| 05 | IT Auditing & GRC Bootcamp | TC | Sep 2025 | [View](./certifications/05-it-auditing-grc-bootcamp-2025.pdf) |
+| 06 | Cybersecurity Programme | EvolveHQ | Dec 2024 | [View](./certifications/06-evolvehq-cybersecurity-programme-2024.pdf) |
+| 07 | ISO/IEC 27001:2022 ISMS Foundation | SandBP | Nov 2024 | [View](./certifications/07-iso-27001-isms-foundation-2024.pdf) |
+| 08 | ISO 31000:2018 Risk Management Foundation | SandBP | Nov 2024 | [View](./certifications/08-iso-31000-risk-management-2024.pdf) |
+| 09 | Introduction to Cybersecurity Badge | Cisco | Sep 2024 | [View](./certifications/09-intro-cybersecurity-badge-2024.pdf) |
+| 10 | Introduction to Cyber Security | Great Learning | Dec 2024 | [View](./certifications/10-great-learning-intro-cybersecurity-2024.png) |
+| 11 | VAPT Internship Certificate | Digitanotion Ltd | Dec 2024 | [View](./certifications/11-digitanotion-internship-cert.pdf) |
+
+### 🏅 Certificate Gallery
+
+<p align="center">
+  <img src="./certifications/10-great-learning-intro-cybersecurity-2024.png" width="45%" alt="Great Learning - Intro to Cyber Security"/>
+  &nbsp;&nbsp;
+  <img src="./certifications/01-oracle-oci-ai-foundations-2025.jpeg" width="20%" alt="Oracle OCI AI Foundations 2025"/>
+</p>
+
+---
+
+## 🔐 Authorization & Ethics Statement
+
+All offensive security techniques documented in this portfolio were performed exclusively in authorized internship environments, controlled lab platforms (TryHackMe, Docker, VirtualBox), intentionally vulnerable applications (bWAPP, DVWA), and academic simulation exercises (ICDFA). Real engagements were conducted under signed NDAs. No unauthorized systems were accessed at any time.
 
 ---
 
